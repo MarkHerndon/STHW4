@@ -7,7 +7,7 @@ output:
   pdf_document: default
 ---
 
-github: 
+github: https://github.com/MarkHerndon/STHW4.git
 
 # Problem 1
 
